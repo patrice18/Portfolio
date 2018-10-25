@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrice18/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrice18/Portfolio/issues"
+  },
+  "homepage": "https://github.com/patrice18/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
